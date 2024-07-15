@@ -16,7 +16,7 @@ This project implements a robust image classifier that can distinguish between c
 ## Usage
 
 1. Clone the repository
-2. Install the required dependencies (see `requirements.txt`)
+2. Install the required dependencies
 3. Run the Jupyter notebook or Python script
 4. The model will be trained on the downloaded images
 5. Use the trained model to classify new images of cats or dogs
@@ -44,3 +44,8 @@ This project uses a ResNet18 architecture, which is known for its efficiency and
 ## Acknowledgements
 
 This project is inspired by and based on the fastai course. It utilizes the fastai library for efficient implementation of deep learning techniques.
+
+## License
+GNU General Public License v3.0
+
+[Insert your chosen license here]
