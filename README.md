@@ -46,6 +46,4 @@ This project uses a ResNet18 architecture, which is known for its efficiency and
 This project is inspired by and based on the fastai course. It utilizes the fastai library for efficient implementation of deep learning techniques.
 
 ## License
-GNU General Public License v3.0
-
-[Insert your chosen license here]
+[GNU General Public License v3.0]
